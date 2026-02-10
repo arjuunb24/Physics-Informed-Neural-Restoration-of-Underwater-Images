@@ -1,0 +1,5 @@
+data/processed/
+data/raw/
+gpu_setup/
+dl-env/
+.vscode/
