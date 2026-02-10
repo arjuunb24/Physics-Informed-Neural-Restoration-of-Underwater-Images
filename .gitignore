@@ -3,3 +3,6 @@ data/raw/
 gpu_setup/
 dl-env/
 .vscode/
+__pycache__/
+*.pyc
+*.pyo
