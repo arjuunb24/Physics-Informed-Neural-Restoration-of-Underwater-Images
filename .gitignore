@@ -1,4 +1,7 @@
 data/processed/
+data/preprocessed/test/
+data/preprocessed/train/
+data/preprocessed/val/
 data/raw/
 gpu_setup/
 dl-env/
